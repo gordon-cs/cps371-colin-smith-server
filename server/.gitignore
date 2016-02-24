@@ -1,0 +1,23 @@
+# Files to keep OUT of git repos
+
+# Mac files
+.DS_Store
+
+# Mac + Google Drive files
+Icon?
+
+# Emacs files
+*~
+.#*
+
+# Ionic built
+platforms/
+
+# AppEngine built
+target/
+
+# Java and C++ built
+.class
+.jar
+.o
+.a
